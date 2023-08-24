@@ -1,0 +1,114 @@
+body {
+	
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+}
+
+nav{
+   
+  font-family: Arial;
+  font-size: 1.25em;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+}
+header h1{
+    color: rgb(174, 177, 22);
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 4px 0px 4px rgba(92, 12, 9, 0.438);
+}
+#zodimg{
+    float: right;
+    border-radius: 90px;
+    margin-bottom:50px;
+    padding-bottom: 50px;
+
+}
+
+
+nav  li{
+    background-color:rgb(253, 121, 253);
+    display:inline-block;
+    margin: 0.3em; 
+	padding: 0.4em; 
+    border: 2px solid rgb(12, 12, 66);
+    border-radius: 8px;
+    
+}
+nav li a {
+    color: #064e10;
+    text-decoration: none;
+    
+}
+
+
+#ulcolor{
+    background-color: rgb(133, 184, 148);
+  
+}
+
+main {
+    display: block;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 1em;
+    margin-left:1em;
+    margin-top: 0.5em;
+    padding: 1em;
+    border-radius: 2em 2em 2em 2em;
+    background-color: #67cee7;
+    opacity: 0.85; 
+    width: 95%;
+}
+
+
+
+
+table {
+    
+    border-collapse: collapse;
+   
+    width: 50%;
+}
+th,td {
+    text-align: center;
+    width: 200%;
+    
+    padding: 0.75em;
+    
+}
+
+th {
+    background-color:rgb(12, 12, 66);
+    color: #ffffff;
+    
+}
+#button{
+    display: block;
+}
+
+#contact{
+    color: black;
+}
+
+#copyright{
+    color: seashell;
+    text-align: center;
+    float: left;
+    margin-top: 2em;
+    margin-left: 3em;
+    width: 70%;
+}
+#social{
+    float: right;
+    width: 20%;
+    height: auto;
+    color: wheat;
+    
+}
+#social img{
+    padding: 0.5em;
+  
+}

@@ -1,0 +1,111 @@
+
+#trabody{
+    background-color: rosybrown;
+}
+
+#traimg{
+  text-align: center;
+ 
+}
+
+nav{
+  
+  
+  font-family: Arial;
+  font-size: 1.25em;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+}
+
+ 
+
+
+nav  li{
+    background-color:rgb(12, 12, 66);
+    display: inline;
+    margin: 0.3em; 
+	padding: 0.4em; 
+    border: 2px solid rgb(12, 12, 66);
+    border-radius: 8px;
+    
+}
+nav li a {
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+#tril{
+    background-color: rgba(71, 51, 143, 0.582);
+    border:2px solid rgba(56, 11, 11, 0.582);
+    display: block;
+    text-align: center;
+    margin-right: 2.75em;
+   
+}
+#trath{
+  background-color: rgba(39, 12, 189, 0.493);
+}
+
+
+main {
+    display: block;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 1em;
+    margin-left:1em;
+    margin-top: 0.5em;
+    padding: 1em;
+    border-radius: 2em 2em 2em 2em;
+    background-color: #77cf99;
+    opacity: 0.85; 
+    width: 95%;
+}
+
+
+
+
+table {
+    border: 0.1em solid rgb(12, 12, 66);
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+th,td {
+    text-align: center;
+    width: 30%;
+    border: 0.1em solid rgb(12, 12, 66);
+    padding: 1em;
+    
+}
+
+th {
+    background-color:rgb(12, 12, 66);
+    color: #ffffff;
+    
+}
+
+#contact{
+    color: black;
+}
+
+#copyright{
+    text-align: center;
+    float: left;
+    margin-top: 2em;
+    margin-left: 3em;
+    width: 70%;
+}
+#social{
+   
+    float: right;
+    width: 20%;
+    height: auto;
+    
+}
+#social img{
+    padding: 0.5em;
+  
+}
+
+
